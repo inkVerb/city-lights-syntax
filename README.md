@@ -1,6 +1,6 @@
 # City Lights Syntax Theme
 
-This is a clone of [City Lights Syntax Theme](https://github.com/Yummygum/city-lights-syntax-atom) and is unmodified in accordance with the license. This is kept for reference purposes. Please refer all code and forks to that original branch. All licenses apply here just the same.
+This is a clone of [City Lights Syntax Theme](https://github.com/Yummygum/city-lights-syntax-atom) and is unmodified in accordance with the license. This is kept for reference purposes and for a clone-ready repository name so it can be clonsed into ~/.atom/packages/ and work OOB (omitting `-atom` from the name of the repo.) Please refer all code and forks to that original branch. All licenses apply here just the same.
 
 ![Image of the city lights icon package](http://citylights.xyz/assets/images/atom/city-lights-syntax-theme.png)
 
