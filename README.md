@@ -1,5 +1,7 @@
 # City Lights Syntax Theme
 
+This is a clone of [City Lights Syntax Theme](https://github.com/Yummygum/city-lights-syntax-atom) and is unmodified in accordance with the license. This is kept for reference purposes. Please refer all code and forks to that original branch. All licenses apply here just the same.
+
 ![Image of the city lights icon package](http://citylights.xyz/assets/images/atom/city-lights-syntax-theme.png)
 
 The City Lights Syntax Theme is a gorgeous dark syntax theme designed with focus in mind. City Lights Syntax Theme has many custom made visual aids to help you code faster and more accurate. Over eight of the most popular coding languages are currently supported.
