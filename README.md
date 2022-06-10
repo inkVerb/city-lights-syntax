@@ -9,11 +9,17 @@ The City Lights Syntax Theme is a gorgeous dark syntax theme designed with focus
 This City Lights Syntax Theme is a part of City Lights; suite of beautiful matte dark themed goodies for Atom & Visual Studio Code. Make sure to also install the City Lights UI Theme and City Lights Icon Package for the best experience. For more information, please go to [http://citylights.xyz](http://citylights.xyz).
 
 ## Install
-Install the City Lights Syntax Theme via Atom by going to ***Preferences/Settings > Install*** and search for City Lights Syntax Theme (make sure you're searching under 'Themes'), or install through CLI <br/>
-`apm install city-lights-syntax`
+
+```console
+cd ~/.atom/packages
+git clone https://github.com/inkVerb/city-lights-syntax.git
+```
+
+Then activate by going to the __Preferences > Themes__ section and selecting it from the __Syntax Themes__ drop-down menu.
 
 ## Feedback/Issues
-Are you enjoying the City Lights syntax Theme? Don't hesitate to share your excitement. Also let us know if you run into bugs or have any other feedback by creating a Github issue.
+Are you enjoying the City Lights syntax Theme? Don't hesitate to share your excitement. Also let us know if you run into bugs or have any other feedback by creating a Github issue. Refer all matters to the original branch: [City Lights Syntax Theme](https://github.com/Yummygum/city-lights-syntax-atom)
+
 
 ## License
 The following licensing applies to City Lights Syntax Theme: Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0). For more information go to [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)
